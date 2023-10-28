@@ -1,19 +1,16 @@
 # 👋 Welcome to My GitHub Profile
 
 ## About Me: Tram Nguyen -  Open-minded, Fast-learner| Pursue a career as a Data Analyst
-**Bao Tram** is my name.
-Within the next 5 years, I am committed to pursuing a career as a professional data analyst. I love data because it is **clear** and provides **objective insights**, free from any subjective influences. 
-
-- 📊 Solid foundation in statistical analysis, data analysis, and visualization techniques;
-- 🧩 Effective communication and problem-solving skills to tackle real-world challenges;
-- 🧩 Proactive, growth mindset, and willing to learn.
+# Why Data Analyst?
+ - I am **curious** about everything, love to raise questions, and find immense enjoyment in the process of delving into and providing profound insights through data.
+ - I love data because it is **clear** and provides **objective insights**, free from any subjective influences.
+   ---> My objective is to **create substantial value** through rigorous **investigation and interpretation of data**, leveraging contextual understanding to formulate **impactful business strategies**.
   
 - 🔍 I am seeking a data analyst or related position in a dynamic environment where I strive to both work and self-develop to contribute towards business growth.
 
 ## What I'm Working On
-- 🔍 Exploring exciting datasets and crafting data-driven stories;
-- 📚 Currently learning and honing my skills in SQL, Power BI, and Python for data analysis;
-- 📈 Constantly improving my skills through data analysis projects and coursework.
+# Toolset: Excel, SQL, Power BI, Python, Chat GPT
+# Skillset: Logical thinking, Problem-solving, Data-communication, Research.
 
 ## Some of my Projects:
 
