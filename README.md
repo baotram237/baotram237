@@ -1,8 +1,5 @@
 # 👋 Welcome to My GitHub Profile
 
-![Profile Views](https://komarev.com/ghpvc/?username=baotram237&color=blue)
-
-✨
 ## About Me
 Open-minded, Fast-learner| Pursue a career as a Data Analyst
 
@@ -32,13 +29,7 @@ Open-minded, Fast-learner| Pursue a career as a Data Analyst
 - 📫 You can reach out to me via [email](mailto:baotram23764@gmail.com).
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/baotram237/).
 - DataCamp Portfolio: [DataCamp](https://www.datacamp.com/portfolio/trambao)
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baotram237&show_icons=true&theme=dark)
-
+=
 ## Thank You
 
 Thanks for visiting my GitHub profile. I'm excited to collaborate and learn from fellow data enthusiasts. Let's turn data into insights together!
-
-Happy coding! 🚀
