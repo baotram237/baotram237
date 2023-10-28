@@ -8,10 +8,6 @@
   
 🔍 I am seeking a data analyst or related position in a dynamic environment where I strive to both work and self-develop to contribute towards business growth.
 
-## What I'm Working On
-# Toolset: Excel, SQL, Power BI, Python, Chat GPT
-# Skillset: Logical thinking, Problem-solving, Data-communication, Research.
-
 ## Some of my Projects:
 
 - Research Journal: ([Link](https://stdjelm.scienceandtechnology.com.vn/index.php/stdjelm/article/view/1030): Customer experience discovery model based on sentiment analysis and machine learning method)
@@ -24,6 +20,9 @@
 
 Moreover, I have gained some experience in data model and database design in product development in [Mobile Apps](https://github.com/giangle286/MOBILE_PROJECT) (using SQLite to manage databases) and [Web development](https://github.com/tuuyen13/webphongtro) (JSON)
 
+
+#### Toolset: Excel, SQL, Power BI, Python, Chat GPT
+#### Skillset: Logical thinking, Problem-solving, Data-communication, Research
 ## Let's Connect
 
 - 📫 You can reach out to me via [email](mailto:baotram23764@gmail.com).
