@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile
 
-## About Me - Open-minded, Fast-learner| Pursue a career as a Data Analyst
+## About Me: Tram Nguyen -  Open-minded, Fast-learner| Pursue a career as a Data Analyst
 **Bao Tram** is my name.
 Within the next 5 years, I am committed to pursuing a career as a professional data analyst. I love data because it is **clear** and provides **objective insights**, free from any subjective influences. 
 
@@ -16,6 +16,7 @@ Within the next 5 years, I am committed to pursuing a career as a professional d
 - 📈 Constantly improving my skills through data analysis projects and coursework.
 
 ## Some of my Projects:
+
 - Research Journal: ([Link](https://stdjelm.scienceandtechnology.com.vn/index.php/stdjelm/article/view/1030): Customer experience discovery model based on sentiment analysis and machine learning method
 - [Flight Fare prediction](https://github.com/baotram237/Regression-model-Flight-fare-Prediction) (Regression models)
 - [SQL Challenge](https://github.com/baotram237/SQLChallenge)
@@ -31,7 +32,7 @@ Moreover, I have gained some experience in data model and database design in pro
 - 📫 You can reach out to me via [email](mailto:baotram23764@gmail.com).
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/baotram237/).
 - DataCamp Portfolio: [DataCamp](https://www.datacamp.com/portfolio/trambao)
-=
+  
 ## Thank You
 
 Thanks for visiting my GitHub profile. I'm excited to collaborate and learn from fellow data enthusiasts. Let's turn data into insights together!
