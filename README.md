@@ -2,11 +2,11 @@
 
 ## About Me: Tram Nguyen -  Open-minded, Fast-learner| Pursue a career as a Data Analyst
 # Why Data Analyst?
- - I am **curious** about everything, love to raise questions, and find immense enjoyment in the process of delving into and providing profound insights through data.
+ - I am **curious** about everything, love to **raise questions**, and find immense enjoyment in the process of **delving into** and **providing profound insights** through data.
  - I love data because it is **clear** and provides **objective insights**, free from any subjective influences.
-   ---> My objective is to **create substantial value** through rigorous **investigation and interpretation of data**, leveraging contextual understanding to formulate **impactful business strategies**.
+ - ---> My objective is to **create substantial value** through rigorous **investigation and interpretation of data**, leveraging contextual understanding to formulate **impactful business strategies**.
   
-- 🔍 I am seeking a data analyst or related position in a dynamic environment where I strive to both work and self-develop to contribute towards business growth.
+🔍 I am seeking a data analyst or related position in a dynamic environment where I strive to both work and self-develop to contribute towards business growth.
 
 ## What I'm Working On
 # Toolset: Excel, SQL, Power BI, Python, Chat GPT
