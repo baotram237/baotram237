@@ -17,10 +17,10 @@ Within the next 5 years, I am committed to pursuing a career as a professional d
 
 ## Some of my Projects:
 
-- Research Journal: ([Link](https://stdjelm.scienceandtechnology.com.vn/index.php/stdjelm/article/view/1030): Customer experience discovery model based on sentiment analysis and machine learning method
+- Research Journal: ([Link](https://stdjelm.scienceandtechnology.com.vn/index.php/stdjelm/article/view/1030): Customer experience discovery model based on sentiment analysis and machine learning method)
 - [Flight Fare prediction](https://github.com/baotram237/Regression-model-Flight-fare-Prediction) (Regression models)
-- [SQL Challenge](https://github.com/baotram237/SQLChallenge)
-- [Netflix movie and TV Shows analysis](https://github.com/baotram237/Netflix); [YouTube trending video](https://github.com/baotram237/Youtube-Trending-video) (Focus on EDA)
+- [SQL Challenge](https://github.com/baotram237/SQLChallenge) (Data definition, data analysis in Sales, Finance domain)
+- [Netflix movie and TV Shows analysis](https://github.com/baotram237/Netflix); [YouTube trending video](https://github.com/baotram237/Youtube-Trending-video) (Focus on EDA, find out patterns of trending videos on YouTube)
 - [Customer segmentation using K-means](https://github.com/baotram237/K-means) 
 - [Retail sale performance](https://github.com/baotram237/Retail-analysis) (EDA, CLV analysis, Churn customer, Market basket analysis)
 - [Cost optimization E-commerce case study](https://github.com/baotram237/Cost-Optimization-Ecommerce-Case-study-)
