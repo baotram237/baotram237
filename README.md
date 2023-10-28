@@ -1,10 +1,9 @@
 # 👋 Welcome to My GitHub Profile
 
-## About Me
-Open-minded, Fast-learner| Pursue a career as a Data Analyst
+## About Me - Open-minded, Fast-learner| Pursue a career as a Data Analyst
+**Bao Tram** is my name.
+Within the next 5 years, I am committed to pursuing a career as a professional data analyst. I love data because it is **clear** and provides **objective insights**, free from any subjective influences. 
 
-- 🎓 Final-year student majoring in Electronic Commerce;
-- 💼 Aspiring data analyst with a passion for turning data into actionable insights;
 - 📊 Solid foundation in statistical analysis, data analysis, and visualization techniques;
 - 🧩 Effective communication and problem-solving skills to tackle real-world challenges;
 - 🧩 Proactive, growth mindset, and willing to learn.
@@ -24,6 +23,9 @@ Open-minded, Fast-learner| Pursue a career as a Data Analyst
 - [Customer segmentation using K-means](https://github.com/baotram237/K-means) 
 - [Retail sale performance](https://github.com/baotram237/Retail-analysis) (EDA, CLV analysis, Churn customer, Market basket analysis)
 - [Cost optimization E-commerce case study](https://github.com/baotram237/Cost-Optimization-Ecommerce-Case-study-)
+
+Moreover, I have gained some experience in data model and database design in product development in [Mobile Apps](https://github.com/giangle286/MOBILE_PROJECT) (using SQLite to manage databases) and [Web development](https://github.com/tuuyen13/webphongtro) (JSON)
+
 ## Let's Connect
 
 - 📫 You can reach out to me via [email](mailto:baotram23764@gmail.com).
