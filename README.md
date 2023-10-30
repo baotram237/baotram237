@@ -16,7 +16,7 @@
 - [Netflix movie and TV Shows analysis](https://github.com/baotram237/Netflix); [YouTube trending video](https://github.com/baotram237/Youtube-Trending-video) (Focus on EDA, find out patterns of trending videos on YouTube)
 - [Customer segmentation using K-means](https://github.com/baotram237/K-means) 
 - [Retail sale performance](https://github.com/baotram237/Retail-analysis) (EDA, CLV analysis, Churn customer, Market basket analysis)
-- [Cost optimization E-commerce case study](https://github.com/baotram237/Cost-Optimization-Ecommerce-Case-study-)
+- [Cost optimization E-commerce case study](https://github.com/baotram237/Ecommerce-Cost-Optimization-case-study)
 
 Moreover, I have gained some experience in data model and database design in product development in [Mobile Apps](https://github.com/giangle286/MOBILE_PROJECT) (using SQLite to manage databases) and [Web development](https://github.com/tuuyen13/webphongtro) (JSON)
 
