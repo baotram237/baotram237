@@ -19,7 +19,7 @@
 - [Cost optimization E-commerce case study](https://github.com/baotram237/Ecommerce-Cost-Optimization-case-study)
 
 Moreover, I have gained experience in database design, business analyst and product development in:
-- [Mobile Apps](https://github.com/giangle286/MOBILE_PROJECT) (using SQLite to manage databases)
+- [Mobile App](https://github.com/giangle286/MOBILE_PROJECT) (using SQLite to manage databases)
 - [Web development](https://github.com/tuuyen13/webphongtro) (JSON)
 
 
