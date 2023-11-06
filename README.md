@@ -18,7 +18,9 @@
 - [Retail sale performance](https://github.com/baotram237/Retail-analysis) (EDA, CLV analysis, Churn customer, Market basket analysis)
 - [Cost optimization E-commerce case study](https://github.com/baotram237/Ecommerce-Cost-Optimization-case-study)
 
-Moreover, I have gained some experience in data model and database design in product development in [Mobile Apps](https://github.com/giangle286/MOBILE_PROJECT) (using SQLite to manage databases) and [Web development](https://github.com/tuuyen13/webphongtro) (JSON)
+Moreover, I have gained experience in database design, business analyst and product development in:
+- [Mobile Apps](https://github.com/giangle286/MOBILE_PROJECT) (using SQLite to manage databases)
+- [Web development](https://github.com/tuuyen13/webphongtro) (JSON)
 
 
 #### Toolset: Excel, SQL, Power BI, Python, Chat GPT
