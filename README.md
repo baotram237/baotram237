@@ -14,11 +14,12 @@
 - [Flight Fare prediction](https://github.com/baotram237/Regression-model-Flight-fare-Prediction) (Regression models)
 - [SQL Challenge](https://github.com/baotram237/SQLChallenge) (Data definition, data analysis in Sales, Finance domain)
 - [Netflix movie and TV Shows analysis](https://github.com/baotram237/Netflix); [YouTube trending video](https://github.com/baotram237/Youtube-Trending-video) (Focus on EDA, find out patterns of trending videos on YouTube)
+- Data Scraping from Youtube API: [YouTube Videos and Comments]([url](https://github.com/baotram237/YouTube-Data-Scraping))
 - [Customer segmentation using K-means](https://github.com/baotram237/K-means) 
 - [Retail sale performance](https://github.com/baotram237/Retail-analysis) (EDA, CLV analysis, Churn customer, Market basket analysis)
 - [Cost optimization E-commerce case study](https://github.com/baotram237/Ecommerce-Cost-Optimization-case-study)
 
-Moreover, I have gained experience in database design, business analyst and product development in:
+Moreover, I have gained experience in database design, business analysis and product development in the:
 - [Mobile App](https://github.com/giangle286/MOBILE_PROJECT) (using SQLite to manage databases)
 - [Web development](https://github.com/tuuyen13/webphongtro) (JSON)
 
