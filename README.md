@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile
 
-## About Me: Tram Nguyen -  Open-minded, Fast-learner| Pursue a career as a Data Analyst
+## About Me: Tram Nguyen -  Open-minded, Fast-learner
 # Data enthusiast
  - I am **curious** about everything, love to **raise questions**, and find immense enjoyment in the process of **delving into** and **providing profound insights** through data.
  - I love data because it is **clear** and provides **objective insights**, free from any subjective influences.
