@@ -12,7 +12,6 @@
 
 - 📫 You can reach out to me via [email](mailto:baotram23764@gmail.com).
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/baotram237/).
-- DataCamp Portfolio: [DataCamp](https://www.datacamp.com/portfolio/trambao)
   
 ## Thank You
 
