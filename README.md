@@ -6,7 +6,7 @@
 
 - Research Journal: ([Link](https://stdjelm.scienceandtechnology.com.vn/index.php/stdjelm/article/view/1030): Customer experience discovery model based on sentiment analysis and machine learning method)
 
-#### Toolset: SQL, Python, AWS Service, Terraform, Docker
+#### Toolset: SQL, Python, AWS Services, Terraform
 #### Skillset: Logical thinking, Problem-solving, Data-communication, Research
 ## Let's Connect
 
